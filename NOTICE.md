@@ -5,6 +5,10 @@ This product includes software developed by silentsoft.org.
 
 This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
 
+__silentsoft-net 1.3.0__
+ * https://github.com/silentsoft/silentsoft-net
+ * Apache License 2.0
+
 __commons-codec 1.6__
  * https://github.com/apache/commons-codec
  * Apache License 2.0
