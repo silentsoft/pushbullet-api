@@ -6,7 +6,7 @@
 	
 	<groupId>org.silentsoft</groupId>
 	<artifactId>pushbullet-api</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1</version>
 
 	<name>Pushbullet API</name>
 	<description>A simple Java library to send a Pushbullet note to specfic device, client, channel and email.</description>

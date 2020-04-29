@@ -1,7 +1,7 @@
 # Pushbullet API
 
-![release](https://img.shields.io/badge/release-0.1.0-blue.svg)
-[![Build Status](https://travis-ci.org/silentsoft/pushbullet-api.svg?branch=master)](https://travis-ci.org/silentsoft/pushbullet-api)
+![release](https://img.shields.io/badge/release-0.1.1-blue.svg)
+[![Build Status](https://travis-ci.com/silentsoft/pushbullet-api.svg?branch=master)](https://travis-ci.com/silentsoft/pushbullet-api)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/silentsoft/pushbullet-api/blob/master/LICENSE.txt)
 [![HitCount](http://hits.dwyl.io/silentsoft/pushbullet-api.svg)](http://hits.dwyl.io/silentsoft/pushbullet-api)
 
@@ -27,7 +27,7 @@
     <dependency>
         <groupId>org.silentsoft</groupId>
         <artifactId>pushbullet-api</artifactId>
-        <version>0.1.0</version>
+        <version>0.1.1</version>
     </dependency>
 </dependencies>
 ``` 
