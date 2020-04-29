@@ -5,11 +5,7 @@ This product includes software developed by silentsoft.org.
 
 This product includes software developed by The Apache Software Foundation (http://www.apache.org/).
 
-__silentsoft-net 1.3.0__
- * https://github.com/silentsoft/silentsoft-net
- * Apache License 2.0
-
-__commons-codec 1.6__
+__commons-codec 1.11__
  * https://github.com/apache/commons-codec
  * Apache License 2.0
 
@@ -17,34 +13,34 @@ __commons-io 2.4__
  * https://github.com/apache/commons-io
  * Apache License 2.0
 
-__commons-logging 1.1.3__
+__commons-logging 1.2__
  * https://github.com/apache/commons-logging
  * Apache License 2.0
 
-__httpclient 4.3.6__
+__httpclient 4.5.12__
  * https://github.com/apache/httpcomponents-client
  * Apache License 2.0
 
-__httpcore 4.3.3__
+__httpcore 4.4.13__
  * https://github.com/apache/httpcomponents-core
  * Apache License 2.0
 
-__httpmime 4.3.6__
+__httpmime 4.5.12__
  * Apache License 2.0
 
 __ini4j 0.5.4__
  * https://github.com/michaelPf85/ini4j
  * Apache License 2.0
 
-__jackson-annotations 2.4.2__
+__jackson-annotations 2.10.3__
  * https://github.com/FasterXML/jackson-annotations
  * Apache License 2.0
 
-__jackson-core 2.4.2__
+__jackson-core 2.10.3__
  * https://github.com/FasterXML/jackson-core
  * Apache License 2.0
 
-__jackson-databind 2.4.2__
+__jackson-databind 2.10.3__
  * https://github.com/FasterXML/jackson-databind
  * Apache License 2.0
 
@@ -60,19 +56,15 @@ __json 20141113__
  * https://github.com/douglascrockford/JSON-java
  * JSON License
 
-__log4j 1.2.17__
- * https://github.com/apache/log4j
- * Apache License 2.0
-
 __proxy-vole 1.0.3__
  * https://github.com/MarkusBernhardt/proxy-vole
  * Apache License 2.0
 
-__slf4j-api 1.7.5__
- * https://github.com/qos-ch/slf4j
- * MIT License
+__silentsoft-net 1.5.0__
+ * https://github.com/silentsoft/silentsoft-net
+ * Apache License 2.0
 
-__slf4j-log4j12 1.7.5__
+__slf4j-api 1.7.25__
  * https://github.com/qos-ch/slf4j
  * MIT License
 
