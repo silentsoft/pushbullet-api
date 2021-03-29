@@ -3,7 +3,7 @@
 ![release](https://img.shields.io/badge/release-0.1.1-blue.svg)
 [![Build Status](https://travis-ci.com/silentsoft/pushbullet-api.svg?branch=master)](https://travis-ci.com/silentsoft/pushbullet-api)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/silentsoft/pushbullet-api/blob/master/LICENSE.txt)
-[![HitCount](http://hits.dwyl.io/silentsoft/pushbullet-api.svg)](http://hits.dwyl.io/silentsoft/pushbullet-api)
+[![HitCount](http://hits.dwyl.com/silentsoft/pushbullet-api.svg)](http://hits.dwyl.com/silentsoft/pushbullet-api)
 
 `Pushbullet API` is a simple Java library to send a Pushbullet note to specfic device, client, channel and email.
 
