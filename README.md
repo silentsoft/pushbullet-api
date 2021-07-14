@@ -1,9 +1,9 @@
 # Pushbullet API
 
-![release](https://img.shields.io/badge/release-0.1.1-blue.svg)
+![Maven Central](https://img.shields.io/maven-central/v/org.silentsoft/pushbullet-api)
 [![Build Status](https://travis-ci.com/silentsoft/pushbullet-api.svg?branch=master)](https://travis-ci.com/silentsoft/pushbullet-api)
 [![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/silentsoft/pushbullet-api/blob/master/LICENSE.txt)
-[![HitCount](http://hits.dwyl.com/silentsoft/pushbullet-api.svg)](http://hits.dwyl.com/silentsoft/pushbullet-api)
+[![Hits](https://hits.sh/github.com/silentsoft/pushbullet-api.svg)](https://hits.sh)
 
 `Pushbullet API` is a simple Java library to send a Pushbullet note to specfic device, client, channel and email.
 
@@ -21,15 +21,13 @@
       PushbulletAPI.getUserInfo(accessToken);
       ```
 
-## Dependency
-```
-<dependencies>
-    <dependency>
-        <groupId>org.silentsoft</groupId>
-        <artifactId>pushbullet-api</artifactId>
-        <version>0.1.1</version>
-    </dependency>
-</dependencies>
+## Maven Central
+```xml
+<dependency>
+    <groupId>org.silentsoft</groupId>
+    <artifactId>pushbullet-api</artifactId>
+    <version>0.1.1</version>
+</dependency>
 ``` 
 
 ## Contributing
